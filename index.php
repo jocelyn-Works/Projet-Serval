@@ -114,7 +114,7 @@ if (isset($_POST['goBack'])) {
 </html>
 <?php 
 // var_dump($bc);
-var_dump($fpv);
-var_dump($fpt);
+// var_dump($fpv);
+// var_dump($fpt);
 // var_dump($fpa);
 ?>

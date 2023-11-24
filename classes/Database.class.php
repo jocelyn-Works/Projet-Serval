@@ -1,6 +1,6 @@
 <?php
 class Database extends PDO {
-    private $host = 'localhost';
+    private $host = '127.0.0.1:8889';
     private $user = 'root';
     private $pass = 'root';    
     private $dbname = 'fpview';
